@@ -24,7 +24,7 @@ Education
 Work experience
 ======
 * Oct 2024 - present: Bioinformatics Analyst
-  * Dana Farber Cancer Institute / Center for Functional Cancer Epigenetics
+  * Massachusetts General Hospital
   * Primary Responsibilities: algorithem development, data analysis, pipeline running
   * Supervisor: Prof. Myles Brown / Dr. Henry Long
   * Skills: scATAc-seq; RNA-seq; High Dimentional Statistics
