@@ -14,7 +14,7 @@ About Me
 
 I am passionate about bridging the gap between **bioinformatics**, **applied mathematics**, and **algorithms**, and I am actively exploring opportunities at their intersection.
 
-My academic background is in **Applied Math/Statistics** and **Computer Science**, and I have trained in **Bioinformatics** at the Dana-Farber Cancer Institute.
+My academic background is in **Applied Math/Statistics** and **Computer Science**, and I have trained in **Bioinformatics** at Massachusetts General Hospital.
 
 This journey began in 2024 when, as an applied math student, I sought a research area that could fully leverage my interdisciplinary strengths. I was introduced to a project at the **Center for Functional Cancer Epigenetics (CFCE)**, focusing on clustering cell types using scATAC-seq data—a process strikingly similar to a final project I completed in a high-dimensional statistics course with Prof. Mauro Maggioni at Hopkins.
 
