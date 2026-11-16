@@ -18,6 +18,8 @@ I lead the development of **cuSAIGE** (to be generalized as **xSAIGE** to suppor
 
 Few methods are designed with their statistics, approximations and engineering considered together. cuSAIGE shows how much this can unlock, and suggests that more sophisticated methods are within immediate reach. I want to design such methods, whose assumptions, approximations and computation are developed together, to uncover more of the genetic associations that precision medicine relies on.
 
+Please feel free to contact me for collaboration.
+
 My academic background is in **Applied Math/Statistics** and **Computer Science**, and I have trained in **Bioinformatics** at Massachusetts General Hospital.
 
 This journey began in 2024 when, as an applied math student, I sought a research area that could fully leverage my interdisciplinary strengths. I was introduced to a project at the **Center for Functional Cancer Epigenetics (CFCE)**, focusing on clustering cell types using scATAC-seq data—a process strikingly similar to a final project I completed in a high-dimensional statistics course with Prof. Mauro Maggioni at Hopkins.
