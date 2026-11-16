@@ -23,10 +23,15 @@ Education
 
 Work experience
 ======
-* Oct 2024 - present: Bioinformatics Analyst
-  * Massachusetts General Hospital
+* Dec 2025 - present: Bioinformatics Researcher
+  * Massachusetts General Hospital, Analytic and Translational Genetics Unit
+  * Primary Responsibilities: statistical genetics method development, including GPU-accelerated mixed-model association testing for biobank-scale GWAS (cuSAIGE) and rare-variant causal inference
+  * Supervisor: [Dr. Wei Zhou](https://researchers.mgh.harvard.edu/profile/17886437/Wei-Zhou)
+
+* Oct 2024 - Jul 2026: Bioinformatics Analyst
+  * Dana-Farber Cancer Institute / Center for Functional Cancer Epigenetics
   * Primary Responsibilities: algorithem development, data analysis, pipeline running
-  * Supervisor: Dr. Xintao Qiu
+  * Supervisor: Prof. Myles Brown / Dr. Xintao Qiu
   * Skills: scATAC-seq; scRNA-seq; multiomics; Oxford Nanopore long-read sequencing; Visium HD
 
 * Feb 2024 - July 2024: Research Assistant
