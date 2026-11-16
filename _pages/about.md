@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Personal Web under development (Jun/10/2025)
+*Welcome, my friend! I hope you have found the Dragon Warrior within yourself.*
 
 About Me 
 ======
