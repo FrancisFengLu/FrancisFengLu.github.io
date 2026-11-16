@@ -1,0 +1,5 @@
+---
+title: "cuSAIGE: GPU-Accelerated Genome-Wide Association Testing at Biobank Scale"
+excerpt: "cuSAIGE is a GPU implementation of SAIGE, the mixed-model method widely used for genome-wide association studies of binary and quantitative traits in large biobanks. It tests hundreds to thousands of traits together on a single GPU. On All of Us data (153,412 individuals), it analyzed 1,024 binary traits in under 10 minutes for about US$2, a job estimated to take 35 days with the original SAIGE. Methods and full results will be disclosed soon.<br/><span style='display:flex;flex-wrap:wrap;gap:12px;margin-top:12px'><a href='/images/cuSAIGE_time_cost.png' style='flex:1 1 280px;min-width:0'><img src='/images/cuSAIGE_time_cost.png' alt='cuSAIGE wall time and cost as the number of traits grows, All of Us data' style='width:100%'></a><a href='/images/cuSAIGE_tool_comparison.png' style='flex:1 1 280px;min-width:0'><img src='/images/cuSAIGE_tool_comparison.png' alt='cuSAIGE runtime and memory compared with other GWAS tools' style='width:100%'></a></span>"
+collection: portfolio
+---
