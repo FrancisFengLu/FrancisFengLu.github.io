@@ -20,9 +20,9 @@ Few methods are designed with their statistics, approximations and engineering c
 
 **Please feel free to contact me for collaboration.**
 
-My academic background is in **Applied Math/Statistics** and **Computer Science**, and I have trained in **Bioinformatics** at Massachusetts General Hospital.
+My academic background is in **Applied Math/Statistics** and **Computer Science**, and I have trained in **Bioinformatics** at Dana-Farber Cancer Institute.
 
 This journey began in 2024 when, as an applied math student, I sought a research area that could fully leverage my interdisciplinary strengths. I was introduced to a project at the **Center for Functional Cancer Epigenetics (CFCE)**, focusing on clustering cell types using scATAC-seq data—a process strikingly similar to a final project I completed in a high-dimensional statistics course with Prof. Mauro Maggioni at Hopkins.
 
-Through this experience, I came to appreciate the critical role of mathematical thinking in biomedical research—and the importance of making complex, often counterintuitive, high-dimensional concepts accessible to collaborators from diverse fields.
+Through this experience, I saw how much mathematical thinking can contribute to biomedical research, and I learned to make complex, high-dimensional ideas clear to collaborators from different fields. This led me to statistical genetics, where I now combine statistical theory with high-performance computing to make biobank-scale analyses faster and more affordable.
 
