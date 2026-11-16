@@ -18,7 +18,7 @@ I lead the development of **cuSAIGE** (to be generalized as **xSAIGE** to suppor
 
 Few methods are designed with their statistics, approximations and engineering considered together. cuSAIGE shows how much this can unlock, and suggests that more sophisticated methods are within immediate reach. I want to design such methods, whose assumptions, approximations and computation are developed together, to uncover more of the genetic associations that precision medicine relies on.
 
-Please feel free to contact me for collaboration.
+**Please feel free to contact me for collaboration.**
 
 My academic background is in **Applied Math/Statistics** and **Computer Science**, and I have trained in **Bioinformatics** at Massachusetts General Hospital.
 
