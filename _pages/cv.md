@@ -26,8 +26,8 @@ Work experience
 * Oct 2024 - present: Bioinformatics Analyst
   * Massachusetts General Hospital
   * Primary Responsibilities: algorithem development, data analysis, pipeline running
-  * Supervisor: Prof. Myles Brown / Dr. Henry Long
-  * Skills: scATAc-seq; RNA-seq; High Dimentional Statistics
+  * Supervisor: Dr. Xintao Qiu
+  * Skills: scATAC-seq; scRNA-seq; multiomics; Oxford Nanopore long-read sequencing; Visium HD
 
 * Feb 2024 - July 2024: Research Assistant
   * Johns Hopkins University, Department of Civil Engeneering
@@ -37,21 +37,6 @@ Work experience
   * Johns Hopkins University, Department of Neurology
   * Supervisor: Professor Adrian Haith
   
-Skills
-======
-* Bioinformatic  
-  * Data types: scATAC-seq scRNA-seq (and bulk)
-  * Tools: Bowtie, BWA, MACS2
-* Statistics & Data Analysis
-  * Statistical modeling, hypothesis testing, regression, PCA, clustering
-  * Sequencing data normalization and batch correction (e.g., CPM, TPM, quantile normalization, TMM)
-* Computer Science: 
-  * Coding Language: R, Python (Pytorch, Numpy, Sklearn, Pandas, Matplotlib), Shell, MATLAB, C/C++, JAVA, LaTeX
-  * Algorithms: Deep Learning, Spectral Clustering, K-means, CNN
-  * Software Development: Version control (Git), debugging, performance optimization
-
-
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
