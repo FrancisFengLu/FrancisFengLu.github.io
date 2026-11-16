@@ -1,0 +1,4 @@
+{% comment %}Publications newest first, with any marked `pinned: true` at the top.{% endcomment %}
+{% assign pinned_pubs = site.publications | where: "pinned", true | reverse %}
+{% assign other_pubs = site.publications | where_exp: "p", "p.pinned != true" | reverse %}
+{% assign sorted_pubs = pinned_pubs | concat: other_pubs %}
