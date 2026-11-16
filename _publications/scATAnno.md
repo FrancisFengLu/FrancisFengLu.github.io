@@ -5,7 +5,7 @@ pinned: true
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 date: 2025-11-24
-venue: '<i>Genomics, Proteomics & Bioinformatics</i>'
+venue: '<i>Genomics, Proteomics & Bioinformatics</i> (GPB)'
 paperurl: 'https://doi.org/10.1093/gpbjnl/qzaf108'
 docurl: 'https://scatanno-main.readthedocs.io/en/latest/'
 githuburl: 'https://github.com/Yijia-Jiang/scATAnno-main'
