@@ -24,7 +24,7 @@ Education
 Work experience
 ======
 * Dec 2025 - present: Bioinformatics Researcher
-  * Massachusetts General Hospital, Analytic and Translational Genetics Unit
+  * Massachusetts General Hospital
   * Primary Responsibilities: statistical genetics method development, including GPU-accelerated mixed-model association testing for biobank-scale GWAS (cuSAIGE) and rare-variant causal inference
   * Supervisor: [Dr. Wei Zhou](https://researchers.mgh.harvard.edu/profile/17886437/Wei-Zhou)
 
