@@ -17,6 +17,8 @@ redirect_from:
 About Me 
 ======
 
+I am a Research Assistant at Massachusetts General Hospital, supervised by [Dr. Wei Zhou](https://wzhoulab.com/) and collaborating with [Prof. Seunggeun (Shawn) Lee](https://www.leelabsg.org/). Prior to this, I worked at Dana-Farber Cancer Institute in the [Center for Functional Cancer Epigenetics (CFCE)](https://cfce.dana-farber.org/), where I collaborated with many biology labs.
+
 I am dedicated to bringing ideas from AI infrastructure and electrical engineering into statistical genetics, to enable a new era for the field.
 
 I lead the development of **cuSAIGE** (to be generalized as **xSAIGE** to support hardware beyond NVIDIA GPUs), which runs SAIGE, a widely used mixed-model method for genome-wide association studies (GWAS), entirely on the GPU. It is about 3,400× faster than the original SAIGE for binary traits and 15,000× faster for quantitative traits, and substantially faster than all competing methods, at 50× to 4,500× lower cost, while remaining mathematically identical to SAIGE, with results differing only in the last digits. Analyses that were once too expensive to run, such as testing thousands of traits across an entire biobank, are now routine.
