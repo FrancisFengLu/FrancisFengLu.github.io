@@ -11,7 +11,7 @@ redirect_from:
 
 <p style="font-size:1.25em;margin-bottom:0.3em"><strong>My goal:</strong> to build the next generation of statistical genetics, powered by GPUs.</p>
 
-**Core areas:** Statistical genetics · GWAS · Rare-variant analysis · GPU computing · Applied mathematics<br>
+**Core areas:** Statistical genetics · GWAS · Rare-variant analysis · GPU computing · High-dimensional statistics · Applied mathematics<br>
 **Background:** Applied Math & Statistics (Johns Hopkins) → Bioinformatics (Dana-Farber) → Statistical Genetics (MGH)
 
 About Me 
