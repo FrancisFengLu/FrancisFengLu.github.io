@@ -23,10 +23,10 @@ Education
 
 Work experience
 ======
-* Dec 2025 - present: Bioinformatics Researcher
+* Dec 2025 - present: Research Assistant
   * Massachusetts General Hospital
   * Primary Responsibilities: statistical genetics method development, including GPU-accelerated mixed-model association testing for biobank-scale GWAS (xSAIGE/cuSAIGE) and rare-variant causal inference
-  * Supervisor: [Dr. Wei Zhou](https://researchers.mgh.harvard.edu/profile/17886437/Wei-Zhou)
+  * Supervisor: [Dr. Wei Zhou](https://wzhoulab.com/)
 
 * Oct 2024 - Jul 2026: Bioinformatics Analyst
   * Dana-Farber Cancer Institute / Center for Functional Cancer Epigenetics
