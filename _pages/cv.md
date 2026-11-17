@@ -25,7 +25,7 @@ Work experience
 ======
 * Dec 2025 - present: Bioinformatics Researcher
   * Massachusetts General Hospital
-  * Primary Responsibilities: statistical genetics method development, including GPU-accelerated mixed-model association testing for biobank-scale GWAS (cuSAIGE) and rare-variant causal inference
+  * Primary Responsibilities: statistical genetics method development, including GPU-accelerated mixed-model association testing for biobank-scale GWAS (xSAIGE/cuSAIGE) and rare-variant causal inference
   * Supervisor: [Dr. Wei Zhou](https://researchers.mgh.harvard.edu/profile/17886437/Wei-Zhou)
 
 * Oct 2024 - Jul 2026: Bioinformatics Analyst
