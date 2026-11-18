@@ -81,11 +81,10 @@
    ========================================================================== */
 
 .author__avatar {
-  display: table-cell;
-  vertical-align: top;
-  width: 36px;
-  // set width only, for non-square avatars
-  // height: 36px;
+  // small screens: full photo above the name instead of a 36px thumbnail
+  display: block;
+  width: auto;
+  margin-bottom: 10px;
 
   @include breakpoint($large) {
     display: block;
@@ -94,8 +93,13 @@
   }
 
   img {
+    width: 140px;
     max-width: 175px;
     border-radius: 0 !important;  // Added !important to override any other styles
+
+    @include breakpoint($large) {
+      width: auto;
+    }
 
     @include breakpoint($large) {
       padding: 5px;
@@ -105,9 +109,9 @@
 }
 
 .author__content {
-  display: table-cell;
+  display: block;
   vertical-align: top;
-  padding-left: 15px;
+  padding-left: 0;
   padding-right: 25px;
   line-height: 1;
 
