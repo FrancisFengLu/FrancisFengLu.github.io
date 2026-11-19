@@ -32,7 +32,7 @@ Work experience
   * Dana-Farber Cancer Institute / Center for Functional Cancer Epigenetics
   * Primary Responsibilities: algorithem development, data analysis, pipeline running
   * Supervisor: Prof. Myles Brown / Dr. Xintao Qiu
-  * Skills: scATAC-seq; scRNA-seq; multiomics; Oxford Nanopore long-read sequencing; Visium HD
+  * Skills: scATAC-seq; scRNA-seq; 10x Multiome; ONT long-read sequencing; Visium HD
 
 * Feb 2024 - July 2024: Research Assistant
   * Johns Hopkins University, Department of Civil Engeneering
