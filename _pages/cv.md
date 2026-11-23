@@ -65,8 +65,8 @@ Teaching
     
 Relevant Coursework    
 ======
-* Genetics
 * High Dimensional Statistical learning (PhD level)
 * Non-linear Optimization (PhD level)
 * Deep learning
+* Genetics
 * Mathematical Image Analysis
