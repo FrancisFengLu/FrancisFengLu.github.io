@@ -25,7 +25,7 @@ Work experience
 ======
 * Dec 2025 - present: Research Assistant
   * Massachusetts General Hospital
-  * Primary Responsibilities: statistical genetics method development, including GPU-accelerated mixed-model association testing for biobank-scale GWAS (xSAIGE/cuSAIGE) and rare-variant causal inference
+  * Primary Responsibilities: statistical genetics method development, including GPU-accelerated mixed-model association testing for GWAS beyond current biobank scale (xSAIGE/cuSAIGE) and rare-variant causal inference
   * Supervisor: [Dr. Wei Zhou](https://wzhoulab.com/)
 
 * Oct 2024 - Jul 2026: Bioinformatics Analyst
@@ -48,7 +48,11 @@ Publications
   <ul>{% for post in sorted_pubs %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Posters
+======
+* Deng X, Lu Feng, Haith Adrian*. (2023). Trade-offs between Effort and Complexity in Sensorimotor Control. Poster presented at Neuroscience 2023, Society for Neuroscience (SfN), Washington, DC.
+
 
 Teaching
 ======
