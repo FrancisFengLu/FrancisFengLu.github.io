@@ -70,11 +70,3 @@ Relevant Coursework
 * Non-linear Optimization (PhD level)
 * Deep learning
 * Mathematical Image Analysis
-
-Supplementary Learning
-======
-* Advanced Analysis Course: Transcriptomic Data Analysis 
-* Advanced Analysis Course: Single-Cell Transcriptomic Data Analysis
-* Advanced Analysis Course: Epigenomic Data Analysis (by Dr. Haowei Meng)
-
-
