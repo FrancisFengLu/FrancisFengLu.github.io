@@ -51,7 +51,10 @@ Publications
 
 Posters
 ======
-* Deng X, Lu Feng, Haith Adrian*. (2023). Trade-offs between Effort and Complexity in Sensorimotor Control. Poster presented at Neuroscience 2023, Society for Neuroscience (SfN), Washington, DC.
+<ul><div class="list__item"><article class="archive__item"><li>
+  <h3 class="archive__item-title">Trade-offs between Effort and Complexity in Sensorimotor Control</h3>
+  <p class="archive__item-excerpt">Deng X, <b>Lu F</b>, Haith A*. Trade-offs between Effort and Complexity in Sensorimotor Control. Poster presented at <i>Neuroscience 2023</i>, Society for Neuroscience (SfN), Washington, DC. 2023.</p>
+</li></article></div></ul>
 
 
 Teaching
