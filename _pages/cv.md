@@ -41,6 +41,14 @@ Work experience
 * Jun 2023 - May 2024: Research Assistant
   * Johns Hopkins University, Department of Neurology
   * Supervisor: Professor Adrian Haith
+
+* May 2022 - Jan 2023: Research Assistant
+  * Johns Hopkins University, Institute for Applied Economics, Global Health, and the Study of Business Enterprise
+  * Supervisor: Professor Steve H. Hanke
+
+* Jul 2017 - Nov 2019: Research Assistant
+  * Stanford University, Rural Education Action Program (REAP), Freeman Spogli Institute for International Studies
+  * Supervisor: Professor Scott Rozelle
   
 Publications
 ======
